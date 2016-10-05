@@ -1,0 +1,109 @@
+
+=== Domain : depots ===
+
+
+=== Set : 0 ===
+
+Training : COMPLETE!
+Testing : RUNNING . . .
+Progress: 0 %Progress: 0 %Progress: 0 %Progress: 0 %Progress: 0 %Progress: 10 %Progress: 10 %Progress: 10 %Progress: 10 %Progress: 10 %Progress: 20 %Progress: 20 %Progress: 20 %Progress: 20 %Progress: 20 %Progress: 30 %Progress: 30 %Progress: 30 %Progress: 30 %Progress: 30 %Progress: 40 %Progress: 40 %Progress: 40 %Progress: 40 %Progress: 40 %Progress: 50 %Progress: 50 %Progress: 50 %Progress: 50 %Progress: 50 %Progress: 60 %Progress: 60 %Progress: 60 %Progress: 60 %Progress: 60 %Progress: 70 %Progress: 70 %Progress: 70 %Progress: 70 %Progress: 70 %Progress: 80 %Progress: 80 %Progress: 80 %Progress: 80 %Progress: 80 %Progress: 90 %Progress: 90 %Progress: 90 %Progress: 90 %Progress: 90 %Testing : COMPLETE!
+
+Unknown actions: 1506; Correct predictions: 833
+Set Accuracy: 55.3120849934
+
+
+=== Set : 1 ===
+
+Training : COMPLETE!
+Testing : RUNNING . . .
+Progress: 0 %Progress: 0 %Progress: 0 %Progress: 0 %Progress: 0 %Progress: 10 %Progress: 10 %Progress: 10 %Progress: 10 %Progress: 10 %Progress: 20 %Progress: 20 %Progress: 20 %Progress: 20 %Progress: 20 %Progress: 30 %Progress: 30 %Progress: 30 %Progress: 30 %Progress: 30 %Progress: 40 %Progress: 40 %Progress: 40 %Progress: 40 %Progress: 40 %Progress: 50 %Progress: 50 %Progress: 50 %Progress: 50 %Progress: 50 %Progress: 60 %Progress: 60 %Progress: 60 %Progress: 60 %Progress: 60 %Progress: 70 %Progress: 70 %Progress: 70 %Progress: 70 %Progress: 70 %Progress: 80 %Progress: 80 %Progress: 80 %Progress: 80 %Progress: 80 %Progress: 90 %Progress: 90 %Progress: 90 %Progress: 90 %Progress: 90 %Testing : COMPLETE!
+
+Unknown actions: 1500; Correct predictions: 833
+Set Accuracy: 55.5333333333
+
+
+=== Set : 2 ===
+
+Training : COMPLETE!
+Testing : RUNNING . . .
+Progress: 0 %Progress: 0 %Progress: 0 %Progress: 0 %Progress: 0 %Progress: 10 %Progress: 10 %Progress: 10 %Progress: 10 %Progress: 10 %Progress: 20 %Progress: 20 %Progress: 20 %Progress: 20 %Progress: 20 %Progress: 30 %Progress: 30 %Progress: 30 %Progress: 30 %Progress: 30 %Progress: 40 %Progress: 40 %Progress: 40 %Progress: 40 %Progress: 40 %Progress: 50 %Progress: 50 %Progress: 50 %Progress: 50 %Progress: 50 %Progress: 60 %Progress: 60 %Progress: 60 %Progress: 60 %Progress: 60 %Progress: 70 %Progress: 70 %Progress: 70 %Progress: 70 %Progress: 70 %Progress: 80 %Progress: 80 %Progress: 80 %Progress: 80 %Progress: 80 %Progress: 90 %Progress: 90 %Progress: 90 %Progress: 90 %Progress: 90 %Testing : COMPLETE!
+
+Unknown actions: 1508; Correct predictions: 817
+Set Accuracy: 54.1777188329
+
+
+=== Set : 3 ===
+
+Training : COMPLETE!
+Testing : RUNNING . . .
+Progress: 0 %Progress: 0 %Progress: 0 %Progress: 0 %Progress: 0 %Progress: 10 %Progress: 10 %Progress: 10 %Progress: 10 %Progress: 10 %Progress: 20 %Progress: 20 %Progress: 20 %Progress: 20 %Progress: 20 %Progress: 30 %Progress: 30 %Progress: 30 %Progress: 30 %Progress: 30 %Progress: 40 %Progress: 40 %Progress: 40 %Progress: 40 %Progress: 40 %Progress: 50 %Progress: 50 %Progress: 50 %Progress: 50 %Progress: 50 %Progress: 60 %Progress: 60 %Progress: 60 %Progress: 60 %Progress: 60 %Progress: 70 %Progress: 70 %Progress: 70 %Progress: 70 %Progress: 70 %Progress: 80 %Progress: 80 %Progress: 80 %Progress: 80 %Progress: 80 %Progress: 90 %Progress: 90 %Progress: 90 %Progress: 90 %Progress: 90 %Testing : COMPLETE!
+
+Unknown actions: 1506; Correct predictions: 803
+Set Accuracy: 53.3200531208
+
+
+=== Set : 4 ===
+
+Training : COMPLETE!
+Testing : RUNNING . . .
+Progress: 0 %Progress: 0 %Progress: 0 %Progress: 0 %Progress: 0 %Progress: 10 %Progress: 10 %Progress: 10 %Progress: 10 %Progress: 10 %Progress: 20 %Progress: 20 %Progress: 20 %Progress: 20 %Progress: 20 %Progress: 30 %Progress: 30 %Progress: 30 %Progress: 30 %Progress: 30 %Progress: 40 %Progress: 40 %Progress: 40 %Progress: 40 %Progress: 40 %Progress: 50 %Progress: 50 %Progress: 50 %Progress: 50 %Progress: 50 %Progress: 60 %Progress: 60 %Progress: 60 %Progress: 60 %Progress: 60 %Progress: 70 %Progress: 70 %Progress: 70 %Progress: 70 %Progress: 70 %Progress: 80 %Progress: 80 %Progress: 80 %Progress: 80 %Progress: 80 %Progress: 90 %Progress: 90 %Progress: 90 %Progress: 90 %Progress: 90 %Testing : COMPLETE!
+
+Unknown actions: 1508; Correct predictions: 824
+Set Accuracy: 54.6419098143
+
+
+=== Set : 5 ===
+
+Training : COMPLETE!
+Testing : RUNNING . . .
+Progress: 0 %Progress: 0 %Progress: 0 %Progress: 0 %Progress: 0 %Progress: 10 %Progress: 10 %Progress: 10 %Progress: 10 %Progress: 10 %Progress: 20 %Progress: 20 %Progress: 20 %Progress: 20 %Progress: 20 %Progress: 30 %Progress: 30 %Progress: 30 %Progress: 30 %Progress: 30 %Progress: 40 %Progress: 40 %Progress: 40 %Progress: 40 %Progress: 40 %Progress: 50 %Progress: 50 %Progress: 50 %Progress: 50 %Progress: 50 %Progress: 60 %Progress: 60 %Progress: 60 %Progress: 60 %Progress: 60 %Progress: 70 %Progress: 70 %Progress: 70 %Progress: 70 %Progress: 70 %Progress: 80 %Progress: 80 %Progress: 80 %Progress: 80 %Progress: 80 %Progress: 90 %Progress: 90 %Progress: 90 %Progress: 90 %Progress: 90 %Testing : COMPLETE!
+
+Unknown actions: 1502; Correct predictions: 848
+Set Accuracy: 56.4580559254
+
+
+=== Set : 6 ===
+
+Training : COMPLETE!
+Testing : RUNNING . . .
+Progress: 0 %Progress: 0 %Progress: 0 %Progress: 0 %Progress: 0 %Progress: 10 %Progress: 10 %Progress: 10 %Progress: 10 %Progress: 10 %Progress: 20 %Progress: 20 %Progress: 20 %Progress: 20 %Progress: 20 %Progress: 30 %Progress: 30 %Progress: 30 %Progress: 30 %Progress: 30 %Progress: 40 %Progress: 40 %Progress: 40 %Progress: 40 %Progress: 40 %Progress: 50 %Progress: 50 %Progress: 50 %Progress: 50 %Progress: 50 %Progress: 60 %Progress: 60 %Progress: 60 %Progress: 60 %Progress: 60 %Progress: 70 %Progress: 70 %Progress: 70 %Progress: 70 %Progress: 70 %Progress: 80 %Progress: 80 %Progress: 80 %Progress: 80 %Progress: 80 %Progress: 90 %Progress: 90 %Progress: 90 %Progress: 90 %Progress: 90 %Testing : COMPLETE!
+
+Unknown actions: 1497; Correct predictions: 790
+Set Accuracy: 52.7722110888
+
+
+=== Set : 7 ===
+
+Training : COMPLETE!
+Testing : RUNNING . . .
+Progress: 0 %Progress: 0 %Progress: 0 %Progress: 0 %Progress: 0 %Progress: 10 %Progress: 10 %Progress: 10 %Progress: 10 %Progress: 10 %Progress: 20 %Progress: 20 %Progress: 20 %Progress: 20 %Progress: 20 %Progress: 30 %Progress: 30 %Progress: 30 %Progress: 30 %Progress: 30 %Progress: 40 %Progress: 40 %Progress: 40 %Progress: 40 %Progress: 40 %Progress: 50 %Progress: 50 %Progress: 50 %Progress: 50 %Progress: 50 %Progress: 60 %Progress: 60 %Progress: 60 %Progress: 60 %Progress: 60 %Progress: 70 %Progress: 70 %Progress: 70 %Progress: 70 %Progress: 70 %Progress: 80 %Progress: 80 %Progress: 80 %Progress: 80 %Progress: 80 %Progress: 90 %Progress: 90 %Progress: 90 %Progress: 90 %Progress: 90 %Testing : COMPLETE!
+
+Unknown actions: 1504; Correct predictions: 798
+Set Accuracy: 53.0585106383
+
+
+=== Set : 8 ===
+
+Training : COMPLETE!
+Testing : RUNNING . . .
+Progress: 0 %Progress: 0 %Progress: 0 %Progress: 0 %Progress: 0 %Progress: 10 %Progress: 10 %Progress: 10 %Progress: 10 %Progress: 10 %Progress: 20 %Progress: 20 %Progress: 20 %Progress: 20 %Progress: 20 %Progress: 30 %Progress: 30 %Progress: 30 %Progress: 30 %Progress: 30 %Progress: 40 %Progress: 40 %Progress: 40 %Progress: 40 %Progress: 40 %Progress: 50 %Progress: 50 %Progress: 50 %Progress: 50 %Progress: 50 %Progress: 60 %Progress: 60 %Progress: 60 %Progress: 60 %Progress: 60 %Progress: 70 %Progress: 70 %Progress: 70 %Progress: 70 %Progress: 70 %Progress: 80 %Progress: 80 %Progress: 80 %Progress: 80 %Progress: 80 %Progress: 90 %Progress: 90 %Progress: 90 %Progress: 90 %Progress: 90 %Testing : COMPLETE!
+
+Unknown actions: 1497; Correct predictions: 798
+Set Accuracy: 53.3066132265
+
+
+=== Set : 9 ===
+
+Training : COMPLETE!
+Testing : RUNNING . . .
+Progress: 0 %Progress: 0 %Progress: 0 %Progress: 0 %Progress: 0 %Progress: 10 %Progress: 10 %Progress: 10 %Progress: 10 %Progress: 10 %Progress: 20 %Progress: 20 %Progress: 20 %Progress: 20 %Progress: 20 %Progress: 30 %Progress: 30 %Progress: 30 %Progress: 30 %Progress: 30 %Progress: 40 %Progress: 40 %Progress: 40 %Progress: 40 %Progress: 40 %Progress: 50 %Progress: 50 %Progress: 50 %Progress: 50 %Progress: 50 %Progress: 60 %Progress: 60 %Progress: 60 %Progress: 60 %Progress: 60 %Progress: 70 %Progress: 70 %Progress: 70 %Progress: 70 %Progress: 70 %Progress: 80 %Progress: 80 %Progress: 80 %Progress: 80 %Progress: 80 %Progress: 90 %Progress: 90 %Progress: 90 %Progress: 90 %Progress: 90 %Testing : COMPLETE!
+
+Unknown actions: 1500; Correct predictions: 848
+Set Accuracy: 56.5333333333
+
+
+==== FINAL STATISTICS ====
+
+Total unknown actions: 15028; Total correct predictions: 8192
+ACCURACY: 54.511578387
+
